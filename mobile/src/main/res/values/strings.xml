@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name" translatable="false">Eva AVM</string>
+	<string name="app_store_uri" translatable="false">https://play.google.com/store/apps/details?id=%1$s</string>
+	<string name="app_deep_link_host" translatable="false">b2cyazilim.com</string>
+	<string name="app_deep_link_path" translatable="false">/.*</string>
+	<string name="fcm_default_notification_channel_id" translatable="false">general</string>
+	<string name="fcm_default_notification_channel_title">Bildirimler</string>
+
+	<string name="navigation_header_title">Eva AVM</string>
+
+	<string name="global_network_offline">İnternet bağlantısı yok</string>
+
+	<string name="menu_main_share">Paylaş</string>
+
+	<string name="drawer_open">Menüyü Açr</string>
+	<string name="drawer_close">Menüyü Kapat</string>
+
+	<string name="placeholder_empty">Bulunamadı!.</string>
+	<string name="placeholder_offline">İnternet bağlantısı yok</string>
+
+	<string name="permission_read_external_storage">Dosyaları okuma izni gerekli</string>
+	<string name="permission_write_external_storage">Dosyaları yazma izni gerekli</string>
+	<string name="permission_access_location">Konumunuza erişim izni gereklidir</string>
+	<string name="permission_camera">Kameranıza erişim izni gerekli</string>
+	<string name="permission_unknown">İzin gerekli</string>
+
+	<string name="location_settings_snackbar">Cihaz konumu devre dışı bırakıldı</string>
+	<string name="location_settings_confirm">Ayarlar</string>
+
+	<string name="main_exit_snackbar">Çıkmak istediğine emin misin?</string>
+	<string name="main_exit_confirm">Evet</string>
+	<string name="main_rate_snackbar"> Bu uygulamayı beğendin mi? Play Store\'da derecelendirin. Desteğin için teşekkürler</string>
+	<string name="main_rate_confirm">Derecelendir</string>
+	<string name="main_downloading">İndiriliyor…</string>
+</resources>

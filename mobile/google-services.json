@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "742852744051",
+    "project_id": "eva-avm",
+    "storage_bucket": "eva-avm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742852744051:android:96e004506e2e6f99332b06",
+        "android_client_info": {
+          "package_name": "com.evaavm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "742852744051-17b3q7r9tbkh9i5fg8f9cjn4r2tj2qok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6m8_38jEjvkNG0K2zDqfOSDuVG8EhkZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "742852744051-17b3q7r9tbkh9i5fg8f9cjn4r2tj2qok.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

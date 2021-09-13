@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- app id for OneSignal -->
+	<!-- leave this string empty if you do not want to use OneSignal push notifications -->
+	<!-- see https://documentation.onesignal.com for more info -->
+	<string name="onesignal_app_id" translatable="false">122ef86c-49bc-4f6c-be75-5c747d9de5e2</string>
+</resources>
